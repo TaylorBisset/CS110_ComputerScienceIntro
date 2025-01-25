@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaughtSpeeding", "CaughtSpeeding\CaughtSpeeding.vcxproj", "{8D36D489-1522-4CA7-BACA-4478BBB7E56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Debug|x64.ActiveCfg = Debug|x64
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Debug|x64.Build.0 = Debug|x64
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Debug|x86.Build.0 = Debug|Win32
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Release|x64.ActiveCfg = Release|x64
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Release|x64.Build.0 = Release|x64
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Release|x86.ActiveCfg = Release|Win32
+		{8D36D489-1522-4CA7-BACA-4478BBB7E56C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83EDDAD6-5C4E-4649-B592-F6BFC59DEB31}
+	EndGlobalSection
+EndGlobal
